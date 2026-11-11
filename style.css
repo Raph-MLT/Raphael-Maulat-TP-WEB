@@ -1,5 +1,5 @@
 body {
-    background-color: #1a1033;
+    background-color: #1c1f2b;
     color: #f2f2f2;
     font-family: Arial, sans-serif;
     font-size: 18px;
@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    color: #ff4fd8;
+    color: #e8a87c;
     font-family: "Courier New", monospace;
     font-size: 40px;
     text-align: center;
@@ -16,8 +16,8 @@ h1 {
 }
 
 main {
-    background-color: #000000;
-    border: 3px solid #00e5ff;
+    background-color: #11131a;
+    border: 2px solid #4a6fa5;
     border-radius: 10px;
     padding: 20px;
     margin: 0 auto;
@@ -26,6 +26,26 @@ main {
 
 p {
     line-height: 1.5;
+}
+
+.bouton-choix {
+    display: block;
+    background-color: #2e3b55;
+    color: #f2f2f2;
+    font-family: "Courier New", monospace;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+    margin-top: 15px;
+    border: 2px solid #e8a87c;
+    border-radius: 10px;
+}
+
+.bouton-choix:hover {
+    background-color: #e8a87c;
+    color: #11131a;
 }
 
 footer {
