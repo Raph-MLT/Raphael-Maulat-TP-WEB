@@ -48,6 +48,12 @@ p {
     color: #11131a;
 }
 
+.icone {
+    height: 30px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
 footer {
     color: #999999;
     font-size: 14px;
